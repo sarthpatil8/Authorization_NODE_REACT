@@ -1,0 +1,24 @@
+# ignoring to push node modules
+Back-end/node_modules/
+
+
+
+# Front-end (React)
+Front-end/node_modules/
+Front-end/build/
+Front-end/dist/
+Front-end/.env
+Front-end/.env.local
+Front-end/.env.development.local
+Front-end/.env.test.local
+Front-end/.env.production.local
+Front-end/npm-debug.log*
+Front-end/yarn-debug.log*
+Front-end/yarn-error.log*
+Front-end/.DS_Store
+Front-end/Thumbs.db
+Front-end/.vscode/
+Front-end/.idea/
+Front-end/*.sublime-workspace
+Front-end/*.sublime-project
+Front-end/coverage/
